@@ -1,0 +1,8 @@
+@software{Vardag2024_Software,
+  author = {Artelt, Lukas and Metz, Eva-Maria},
+  doi = {https://doi.org/10.5281/zenodo.13225469},
+  title = {{Code for VardagEtAl 2024}},
+  url = {https://github.com/lartelt/VardagEtAl2024},
+  version = {1.0},
+  year = {2024}
+}
